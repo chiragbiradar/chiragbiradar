@@ -91,3 +91,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragbiradar&show_icons=true&theme=dracula)
