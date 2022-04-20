@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="left">
+  <a href="https://github.com/chiragbiradar/chiragbiradar">
+    <img src="https://komarev.com/ghpvc/?username=chiragbiradar" alt="page views" />
+  </a>
+
+
 <h2 align="left" id="chiragbiradar">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
