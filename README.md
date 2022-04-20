@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://www.flaticon.com/free-icon/instagram_174855style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
+
 <!--
 **chiragbiradar/chiragbiradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -94,5 +96,9 @@ Here are some ideas to get you started:
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
+
+<a href="https://github.com/chiragbiradar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbiradar&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragbiradar&show_icons=true&theme=dracula)
