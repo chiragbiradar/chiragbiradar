@@ -102,3 +102,5 @@ Here are some ideas to get you started:
 </a>
 
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragbiradar&show_icons=true&theme=dracula)
+
+<!---![trophy](https://github-profile-trophy.vercel.app/?username=chiragbiradar&theme=onedark)](https://github.com/chiragbiradar)--!>
