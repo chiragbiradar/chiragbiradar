@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/c.svg" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
@@ -35,21 +35,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/c-program.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/go-flat.svg" width="48" height="48" alt="C" />
       </a>
       <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -58,22 +46,10 @@ Here are some ideas to get you started:
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr>
   <tr>
@@ -95,12 +71,6 @@ Here are some ideas to get you started:
       </a>
       <br>Debian
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
@@ -112,24 +82,6 @@ Here are some ideas to get you started:
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
