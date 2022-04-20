@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/c.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/c-program.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
