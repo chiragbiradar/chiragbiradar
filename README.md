@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! My name is Chirag Biradar, and I'm a 3rd year Bachelor's student in Engineering. I'm passionate about DevOps and cloud computing, with a keen interest in the ever-exciting field of cybersecurity. I love tinkering with code and enjoy exploring new technologies, always seeking to expand my skill set. Whether it's development or deployment, I'm up for the challenge. As an enthusiastic learner and dedicated team player, I'm excited to collaborate and contribute to innovative projects on GitHub. So let's connect and create something amazing together!
+Hello there! My name is Chirag Biradar. I'm passionate about DevOps and cloud computing, with a keen interest in the ever-exciting field of cybersecurity. I love tinkering with code and enjoy exploring new technologies, always seeking to expand my skill set. Whether it's development or deployment, I'm up for the challenge. As an enthusiastic learner and dedicated team player, I'm excited to collaborate and contribute to innovative projects on GitHub. So let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
