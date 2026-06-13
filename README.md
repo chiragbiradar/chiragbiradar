@@ -16,16 +16,15 @@
 
 ## ⚡ Who I Am
 
-```python
-chirag = {
-    "role"       : "Full-Stack / Backend Engineer",
-    "location"   : "Bengaluru, India 🇮🇳",
-    "stack"      : ["Python", "FastAPI", "React", "Next.js", "PostgreSQL", "GCP"],
-    "currently"  : "Building Strikedeck.in — fintech automation @ Pkeday",
-    "superpower" : "40% infra cost cuts · 200+ targets automated/month",
-    "open_to"    : "Remote · Hybrid (Bengaluru)",
-}
-```
+<table>
+  <tr><td>🎯 <b>Role</b></td><td>Full-Stack / Backend Engineer</td></tr>
+  <tr><td>📍 <b>Location</b></td><td>Bengaluru, India 🇮🇳</td></tr>
+  <tr><td>🔧 <b>Stack</b></td><td>Python · FastAPI · React · Next.js · PostgreSQL · GCP</td></tr>
+  <tr><td>🚀 <b>Currently</b></td><td>Building <a href="https://strikedeck.in">Strikedeck.in</a> — fintech automation @ Pkeday</td></tr>
+  <tr><td>💪 <b>Superpower</b></td><td>40% infra cost cuts · 200+ targets automated/month</td></tr>
+  <tr><td>🤖 <b>Into</b></td><td>AI Agents · LangChain · Claude Code · MCP Servers</td></tr>
+  <tr><td>🌐 <b>Open to</b></td><td>Remote · Hybrid (Bengaluru)</td></tr>
+</table>
 
 ---
 
