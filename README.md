@@ -14,20 +14,22 @@
 
 ---
 
-## Who I Am
+## ⚡ Who I Am
 
+```python
 chirag = {
     "role"       : "Full-Stack / Backend Engineer",
-    "location"   : "Bengaluru, India",
+    "location"   : "Bengaluru, India 🇮🇳",
     "stack"      : ["Python", "FastAPI", "React", "Next.js", "PostgreSQL", "GCP"],
-    "currently"  : "Building Strikedeck.in - fintech automation @ Pkeday",
-    "superpower" : "40% infra cost cuts, 200+ targets automated/month",
-    "open_to"    : "Remote or Hybrid (Bengaluru)",
+    "currently"  : "Building Strikedeck.in — fintech automation @ Pkeday",
+    "superpower" : "40% infra cost cuts · 200+ targets automated/month",
+    "open_to"    : "Remote · Hybrid (Bengaluru)",
 }
+```
 
 ---
 
-## Stack
+## 🛠 Stack
 
 <div align="center">
 
@@ -37,16 +39,16 @@ chirag = {
 
 ---
 
-## Notable Builds
+## 🏗 Notable Builds
 
 | Project | Stack | Impact |
 |---------|-------|--------|
-| **[Strikedeck.in](https://strikedeck.in)** | FastAPI, React, PostgreSQL, GCP, Docker | 200+ investment targets/mo, 40% faster research |
-| **[AI Story Creator](https://chiragbiradar.com)** | Next.js, FastAPI, DALL-E 3, LangChain, Gemini | E2E Playwright tested, Cloud Run deployed |
+| **[Strikedeck.in](https://strikedeck.in)** | FastAPI · React · PostgreSQL · GCP · Docker | 200+ investment targets/mo · 40% faster research |
+| **[AI Story Creator](https://chiragbiradar.com)** | Next.js · FastAPI · DALL-E 3 · LangChain · Gemini | E2E Playwright tested · Cloud Run deployed |
 
 ---
 
-## Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiragbiradar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" height="160" />
@@ -59,14 +61,17 @@ chirag = {
 
 ---
 
-## Certs
+## 🎓 Certs
 
-- Google Cloud Digital Leader
-- GCP: Deploy to Kubernetes
-- GCP: Build & Secure Networks
-- Anthropic: Claude Code in Action
-- Anthropic: Introduction to Subagents
-- Anthropic: AI Fluency Framework
+```
+🤖  Anthropic: Claude Code in Action
+🤖  Anthropic: Introduction to Subagents
+🤖  Anthropic: Introduction to Agent Skills
+🤖  Anthropic: AI Fluency Framework
+☁️  Google Cloud Digital Leader
+☁️  GCP: Deploy to Kubernetes
+☁️  GCP: Build & Secure Networks
+```
 
 ---
 
